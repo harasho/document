@@ -15,6 +15,7 @@ Contents:
 
    setlists/*
    sphinx/*
+   lifehack/*
 
 
 Indices and tables

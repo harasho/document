@@ -7,7 +7,7 @@ autobuild
 ----------
 
 make htmlをして更新されたhtmlをブラウザで都度参照というのは手間。
-autobuild <https://pypi.python.org/pypi/sphinx-autobuild>`_ を利用すれば、編集したこと自動で検知して、手動時の手間を省いてくれる。::
+`autobuild <https://pypi.python.org/pypi/sphinx-autobuild>`_ を利用すれば、編集したこと自動で検知して、手動時の手間を省いてくれる。::
  
  pip install sphinx-autobuild
 

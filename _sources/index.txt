@@ -13,7 +13,7 @@ Contents:
    :numbered:
    :glob:
 
-   setlist/*
+   setlists/*
 
 
 Indices and tables

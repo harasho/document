@@ -1,0 +1,44 @@
+===========
+How to use
+===========
+
+autobuild
+----------
+
+make htmlをして更新されたhtmlをブラウザで都度参照というのは手間。
+autobuild <https://pypi.python.org/pypi/sphinx-autobuild>`_ を利用すれば、編集したこと自動で検知して、手動時の手間を省いてくれる。::
+ 
+ pip install sphinx-autobuild
+
+autobuldを起動しておくと、以降はファイルを更新して保存すると以下のように自動でビルドが実行される。ファイルを編集してブラウザで実際の表示を見るってシンプルなプロセスになるわけ。
+
+::
+
+ +--------- sphinx/.index.rst.swp changed ----------------------------------------
+ | Running Sphinx v1.4.4
+ | loading translations [ja]... done
+ | loading pickled environment... done
+ | building [mo]: targets for 0 po files that are out of date
+ | building [html]: targets for 0 source files that are out of date
+ | updating environment: 0 added, 0 changed, 0 removed
+ | looking for now-outdated files... none found
+ | no targets are out of date.
+ | build succeeded.
+ +--------------------------------------------------------------------------------
+ 
+ 
+ +--------- sphinx/index.rst changed ---------------------------------------------
+ | Running Sphinx v1.4.4
+ | loading translations [ja]... done
+ | loading pickled environment... done
+ | building [mo]: targets for 0 po files that are out of date
+ | building [html]: targets for 0 source files that are out of date
+ | updating environment: 0 added, 0 changed, 0 removed
+ | looking for now-outdated files... none found
+ | no targets are out of date.
+ | build succeeded.
+ +--------------------------------------------------------------------------------
+ 
+ 
+ [I 160806 20:03:29 handlers:92] Reload 1 waiters: None
+ [I 160806 20:03:29 handlers:132] Browser Connected: http://127.0.0.1:8000/sphinx/index.html#autobuild

@@ -8,7 +8,7 @@ No Category
 Glosarry
 --------------
 
-- `Tier <http://www.sbbit.jp/article/cont1/18464>_`
+- `Tier <http://www.sbbit.jp/article/cont1/18464>`_ 
 - `品質特性モデル <http://www.dtic.mil/dtic/tr/fulltext/u2/a086985.pdf>`_
 
   - ファクター

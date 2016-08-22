@@ -45,3 +45,10 @@ autobuldを起動しておくと、以降はファイルを更新して保存す
  
  [I 160806 20:03:29 handlers:92] Reload 1 waiters: None
  [I 160806 20:03:29 handlers:132] Browser Connected: http://127.0.0.1:8000/sphinx/index.html#autobuild
+
+
+todo
+----------
+ドキュメントを書いているときに後で修正が必要な箇所が見つかることはあります。
+todoのテクステンションを入れておき、todoを明記しておけばそのことを忘れることはありません。
+

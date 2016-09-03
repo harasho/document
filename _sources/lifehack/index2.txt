@@ -7,6 +7,14 @@ No Category
 --------------
 Glosarry
 --------------
+- `偽陽性 <https://kotobank.jp/word/偽陽性-674743>`_ 
+- `抗弁 <http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q105211580>`_
+- MPL(Mozilla Public License)
+- GPL(GNU General Public License)
+- Apache2.0ライセンス
+- MITライセンス
+- BSDライセンス
+- `プリミティブ <http://www.weblio.jp/wkpja/content/プリミティブ_プリミティブの概要>`_
 - クリティカルパス
 - ブルーオーシャン
 - スモークテスト

@@ -3,3 +3,4 @@ Study Record
 ============
 
 `Rubyのチュートリアル <http://tryruby.org/levels/1/challenges/0>`_ をやった
+`Cloud9 <https://c9.io/>`_ でRailsの遊びを始める

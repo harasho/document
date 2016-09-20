@@ -6,3 +6,5 @@ Study Record
 
   * `Cloud9 <https://c9.io/>`_ でRailsの遊びを始める
   * Herokuにデプロイする
+
+* `Railsのチュートリアル <http://railstutorial.jp/chapters/toy_app?version=4.2#cha-a_toy_app>`_ の2章を終える

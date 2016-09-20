@@ -7,6 +7,7 @@ No Category
 --------------
 Glosarry
 --------------
+- バリデーション/validation
 - `偽陽性 <https://kotobank.jp/word/偽陽性-674743>`_ 
 - `抗弁 <http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q105211580>`_
 - MPL(Mozilla Public License)

@@ -1,5 +1,5 @@
 ============
-Study Record
+Study Log
 ============
 
 * `Rubyのチュートリアル <http://tryruby.org/levels/1/challenges/0>`_ をはじめる

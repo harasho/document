@@ -2,9 +2,16 @@
 Study Log
 ============
 
-* `Rubyのチュートリアル <http://tryruby.org/levels/1/challenges/0>`_ をはじめる
+* `Rubyのチュートリアル <http://tryruby.org/levels/1/challenges/0>`_ を終える
 
-  * `Cloud9 <https://c9.io/>`_ でRailsの遊びを始める
+* Railsのチュートリアルの1章を終える
+
+  * `Cloud9 <https://c9.io/>`_ の利用開始
   * Herokuにデプロイする
 
 * `Railsのチュートリアル <http://railstutorial.jp/chapters/toy_app?version=4.2#cha-a_toy_app>`_ の2章を終える
+
+* `Railsのチュートリアル <http://railstutorial.jp/chapters/toy_app?version=4.2#cha-a_toy_app>`_ の3章を始める
+
+  * TDDを体験
+  
